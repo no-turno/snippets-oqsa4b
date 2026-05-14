@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://no-turno.github.io/snippets-oqsa4b/sitemap.xml
